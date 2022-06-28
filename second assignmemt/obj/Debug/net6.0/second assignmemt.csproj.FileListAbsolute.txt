@@ -1,0 +1,15 @@
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\bin\Debug\net6.0\second assignmemt.exe
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\bin\Debug\net6.0\second assignmemt.deps.json
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\bin\Debug\net6.0\second assignmemt.runtimeconfig.json
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\bin\Debug\net6.0\second assignmemt.dll
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\bin\Debug\net6.0\second assignmemt.pdb
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.csproj.AssemblyReference.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.AssemblyInfoInputs.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.AssemblyInfo.cs
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.csproj.CoreCompileInputs.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.dll
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\refint\second assignmemt.dll
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.pdb
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\second assignmemt.genruntimeconfig.cache
+C:\Users\nati3\OneDrive\Documents\Visual Studio 2022\csharp-assignmemt-two\second assignmemt\obj\Debug\net6.0\ref\second assignmemt.dll
